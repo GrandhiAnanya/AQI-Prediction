@@ -1,2 +1,28 @@
-
+---- Coastal + Central India (Ananya)
+Bhopal
 T T Nagar, Bhopal - MPPCB  ; 23.209944, 77.422833
+
+---- North India / Indo-Gangetic (Roshna)
+
+---- Indo-Gangetic + Northwest (Jishnu)
+
+---- Deccan + Industrial (Satya)
+Bengaluru
+1553 - Bapuji Nagar, Bengaluru - KSPCB ; 12.975425124515596, 77.60363616835642
+165 - City Railway Station, Bengaluru - KSPCB ; 12.9756843 , 77.5660749
+1555 - Hombegowda Nagar, Bengaluru - KSPCB ; 12.938539	, 77.5901
+
+Hyderabad
+199 - Bollaram Industrial Area, Hyderabad - TSPCB	17.540891	78.358528
+5597 - IITH Kandi, Hyderabad - TSPCB	17.585705	78.126199
+298 - Zoo Park, Hyderabad - TSPCB	17.349693	78.45144
+
+Pune
+5407 - Hadapsar, Pune - IITM	18.501793	73.927532
+292 - Karve Road, Pune - MPCB	18.5011743	73.8165527
+5404 - Mhada Colony, Pune - IITM	18.57304	73.927715
+
+Ahmedabad
+5453 - Chandkheda, Ahmedabad - IITM	23.107969	72.574648
+5450 - Gyaspur, Ahmedabad - IITM	22.977134	72.553024
+5456 - SVPI Airport Hansol, Ahmedabad - IITM	23.076793	72.627874
