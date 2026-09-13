@@ -2,6 +2,24 @@
 Bhopal
 T T Nagar, Bhopal - MPPCB  ; 23.209944, 77.422833
 
+Mumbai
+Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB ; 19.090907137032833, 72.86281199982379
+Colaba, Mumbai - MPCB ;18.9100, 72.8100
+Powai, Mumbai - MPCB ;  19.1187195 72.9073476
+
+Chennai
+Alandur Bus Depot, Chennai - CPCB ; 13.014616298505336, 80.20778116456661
+Perungudi, Chennai - TNPCB ; 13.014855632448976, 80.21868250085134
+Velachery Res. Area, Chennai - CPCB ;  12.985533887507335, 80.22067750249354 
+
+Kolkata
+Ballygunge, Kolkata - WBPCB ; 22.527420996587473, 88.33862279297531 
+Bidhannagar, Kolkata - WBPCB ; 22.56403725264782, 88.4082049825778
+Rabindra Sarobar, Kolkata - WBPCB ; 22.512626286199506, 88.36361451037111
+
+Visakhapatnam
+GVM Corporation, Visakhapatnam - APPCB ; 17.753625887818288, 83.24896547938538
+
 ---- North India / Indo-Gangetic (Roshna)
 
 ---- Indo-Gangetic + Northwest (Jishnu)
@@ -26,3 +44,4 @@ Ahmedabad
 5453 - Chandkheda, Ahmedabad - IITM	23.107969	72.574648
 5450 - Gyaspur, Ahmedabad - IITM	22.977134	72.553024
 5456 - SVPI Airport Hansol, Ahmedabad - IITM	23.076793	72.627874
+
