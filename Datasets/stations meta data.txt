@@ -23,6 +23,26 @@ GVM Corporation, Visakhapatnam - APPCB ; 17.753625887818288, 83.24896547938538
 ---- North India / Indo-Gangetic (Roshna)
 
 ---- Indo-Gangetic + Northwest (Jishnu)
+Meerut (instead of kanpur)
+Ganga Nagar, Meerut - UPPCB : 29.00479029558499, 77.75820856169265 (approx)
+Pallavpuram Phase 2, Meerut - UPPCB : 29.063519833183417, 77.70974141125262
+Jai Bhim Nagar, Meerut - UPPCB : 28.960106178184613, 77.75835141919988 (approx)
+
+Patna
+DRM Office Danapur, Patna - BSPCB : 25.585910865521264, 85.04386190979056
+Muradpur, Patna - BSPCB : 25.620016451899286, 85.14409370833543 (approx)
+Rajbansi Nagar, Patna - BSPCB : 25.602125855725582, 85.10890113952915 (approx)
+
+Muzaffarnagar (instead of varanasi)
+New Mandi, Muzaffarnagar - UPPCB : 29.47353468224257, 77.70741565010522
+
+Chandigarh
+Sector-25, Chandigarh - CPCC : 30.751950284771876, 76.75646141005554 (approx)
+
+Jaipur
+Adarsh Nagar, Jaipur - RSPCB : 	26.906721220662195, 75.8249173859782 (approx)
+Shastri Nagar, Jaipur - RSPCB : 26.948036441210434, 75.80195647370641 (approx)
+Police Commissionerate, Jaipur - RSPCB : 26.916727107442714, 75.80170745186368
 
 ---- Deccan + Industrial (Satya)
 Bengaluru
