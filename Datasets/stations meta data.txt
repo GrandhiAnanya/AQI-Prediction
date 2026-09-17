@@ -21,6 +21,21 @@ Visakhapatnam
 GVM Corporation, Visakhapatnam - APPCB ; 17.753625887818288, 83.24896547938538
 
 ---- North India / Indo-Gangetic (Roshna)
+Jawaharlal Nehru Stadium, Delhi - DPCC ; 28.5829, 77.2344
+Alipur, Delhi - DPCC ; 28.809784, 77.149956
+Pusa, Delhi - DPCC ; 28.638524, 77.147541
+Sanjay Nagar, Ghaziabad - UPPCB ; 28.694879, 77.454936
+Indirapuram, Ghaziabad - UPPCB ; 28.645496, 77.370332
+Loni, Ghaziabad - UPPCB ; 28.733499, 77.298461
+NISE Gwal Pahari, Gurugram - IITM ; 28.424882, 77.151857
+Sector-51, Gurugram - HSPCB ; 28.426999, 77.066062
+Teri Gram, Gurugram - HSPCB ; 28.426778, 77.145121
+B R Ambedkar University, Lucknow - UPPCB ; 26.764808, 80.928642
+Gomti Nagar, Lucknow - UPPCB ; 26.864798, 81.004831
+Kukrail Picnic Spot-1, Lucknow - UPPCB ; 26.906529, 80.983868
+Sector-116, Noida - UPPCB ; 28.589726, 77.310096
+Sector - 125, Noida - UPPCB ; 28.543798, 77.331016
+Sector - 62, Noida - IITM ; 28.627441, 77.368564
 
 ---- Indo-Gangetic + Northwest (Jishnu)
 Meerut (instead of kanpur)
