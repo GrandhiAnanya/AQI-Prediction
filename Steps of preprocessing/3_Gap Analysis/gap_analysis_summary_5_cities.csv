@@ -1,0 +1,177 @@
+City,Station,File,Variable,Total_Observations,Missing_Observations,Missing_Percentage,Total_Gaps,Gaps_1_to_3h,Gaps_4_to_72h,Gaps_Above_72h,Longest_Gap_Hours
+Bhopal,T T nagar Bhopal - MPPCB,T_T_nagar_Bhopal_merged_pollutants_time_features_weather_merged_with_elevation.csv,PM2.5 (µg/m³),52608,1584,3.01,192,111,77,4,254.0
+Bhopal,T T nagar Bhopal - MPPCB,T_T_nagar_Bhopal_merged_pollutants_time_features_weather_merged_with_elevation.csv,PM10 (µg/m³),52608,1421,2.7,168,91,74,3,254.0
+Bhopal,T T nagar Bhopal - MPPCB,T_T_nagar_Bhopal_merged_pollutants_time_features_weather_merged_with_elevation.csv,NO2 (µg/m³),52608,2042,3.88,175,99,73,3,767.0
+Bhopal,T T nagar Bhopal - MPPCB,T_T_nagar_Bhopal_merged_pollutants_time_features_weather_merged_with_elevation.csv,SO2 (µg/m³),52608,1516,2.88,300,221,77,2,255.0
+Bhopal,T T nagar Bhopal - MPPCB,T_T_nagar_Bhopal_merged_pollutants_time_features_weather_merged_with_elevation.csv,CO (mg/m³),52608,1806,3.43,340,249,88,3,256.0
+Bhopal,T T nagar Bhopal - MPPCB,T_T_nagar_Bhopal_merged_pollutants_time_features_weather_merged_with_elevation.csv,Ozone (µg/m³),52608,1288,2.45,189,121,66,2,255.0
+Bhopal,T T nagar Bhopal - MPPCB,T_T_nagar_Bhopal_merged_pollutants_time_features_weather_merged_with_elevation.csv,NH3 (µg/m³),52608,2108,4.01,208,124,81,3,767.0
+Bhopal,T T nagar Bhopal - MPPCB,T_T_nagar_Bhopal_merged_pollutants_time_features_weather_merged_with_elevation.csv,temperature_2m (°C),52608,0,0.0,0,0,0,0,0.0
+Bhopal,T T nagar Bhopal - MPPCB,T_T_nagar_Bhopal_merged_pollutants_time_features_weather_merged_with_elevation.csv,relative_humidity_2m (%),52608,0,0.0,0,0,0,0,0.0
+Bhopal,T T nagar Bhopal - MPPCB,T_T_nagar_Bhopal_merged_pollutants_time_features_weather_merged_with_elevation.csv,dew_point_2m (°C),52608,0,0.0,0,0,0,0,0.0
+Bhopal,T T nagar Bhopal - MPPCB,T_T_nagar_Bhopal_merged_pollutants_time_features_weather_merged_with_elevation.csv,precipitation (mm),52608,0,0.0,0,0,0,0,0.0
+Bhopal,T T nagar Bhopal - MPPCB,T_T_nagar_Bhopal_merged_pollutants_time_features_weather_merged_with_elevation.csv,surface_pressure (hPa),52608,0,0.0,0,0,0,0,0.0
+Bhopal,T T nagar Bhopal - MPPCB,T_T_nagar_Bhopal_merged_pollutants_time_features_weather_merged_with_elevation.csv,wind_speed_10m (km/h),52608,0,0.0,0,0,0,0,0.0
+Bhopal,T T nagar Bhopal - MPPCB,T_T_nagar_Bhopal_merged_pollutants_time_features_weather_merged_with_elevation.csv,wind_direction_10m (°),52608,0,0.0,0,0,0,0,0.0
+Bhopal,T T nagar Bhopal - MPPCB,T_T_nagar_Bhopal_merged_pollutants_time_features_weather_merged_with_elevation.csv,shortwave_radiation (W/m²),52608,0,0.0,0,0,0,0,0.0
+Bhopal,T T nagar Bhopal - MPPCB,T_T_nagar_Bhopal_merged_pollutants_time_features_weather_merged_with_elevation.csv,cloud_cover (%),52608,0,0.0,0,0,0,0,0.0
+Chennai,"Alandur Bus Depot, Chennai - CPCB",Alandur_Bus_Depot_merged_pollutants_time_features_weather_merged_with_elevation.csv,PM2.5 (µg/m³),52608,6247,11.87,329,170,139,20,703.0
+Chennai,"Alandur Bus Depot, Chennai - CPCB",Alandur_Bus_Depot_merged_pollutants_time_features_weather_merged_with_elevation.csv,PM10 (µg/m³),52608,14850,28.23,181,88,77,16,7867.0
+Chennai,"Alandur Bus Depot, Chennai - CPCB",Alandur_Bus_Depot_merged_pollutants_time_features_weather_merged_with_elevation.csv,NO2 (µg/m³),52608,5626,10.69,354,203,131,20,703.0
+Chennai,"Alandur Bus Depot, Chennai - CPCB",Alandur_Bus_Depot_merged_pollutants_time_features_weather_merged_with_elevation.csv,SO2 (µg/m³),52608,4425,8.41,431,331,86,14,703.0
+Chennai,"Alandur Bus Depot, Chennai - CPCB",Alandur_Bus_Depot_merged_pollutants_time_features_weather_merged_with_elevation.csv,CO (mg/m³),52608,3448,6.55,191,111,69,11,703.0
+Chennai,"Alandur Bus Depot, Chennai - CPCB",Alandur_Bus_Depot_merged_pollutants_time_features_weather_merged_with_elevation.csv,Ozone (µg/m³),52608,4593,8.73,390,260,116,14,703.0
+Chennai,"Alandur Bus Depot, Chennai - CPCB",Alandur_Bus_Depot_merged_pollutants_time_features_weather_merged_with_elevation.csv,NH3 (µg/m³),52608,17136,32.57,466,327,119,20,10621.0
+Chennai,"Alandur Bus Depot, Chennai - CPCB",Alandur_Bus_Depot_merged_pollutants_time_features_weather_merged_with_elevation.csv,temperature_2m (°C),52608,0,0.0,0,0,0,0,0.0
+Chennai,"Alandur Bus Depot, Chennai - CPCB",Alandur_Bus_Depot_merged_pollutants_time_features_weather_merged_with_elevation.csv,relative_humidity_2m (%),52608,0,0.0,0,0,0,0,0.0
+Chennai,"Alandur Bus Depot, Chennai - CPCB",Alandur_Bus_Depot_merged_pollutants_time_features_weather_merged_with_elevation.csv,dew_point_2m (°C),52608,0,0.0,0,0,0,0,0.0
+Chennai,"Alandur Bus Depot, Chennai - CPCB",Alandur_Bus_Depot_merged_pollutants_time_features_weather_merged_with_elevation.csv,precipitation (mm),52608,0,0.0,0,0,0,0,0.0
+Chennai,"Alandur Bus Depot, Chennai - CPCB",Alandur_Bus_Depot_merged_pollutants_time_features_weather_merged_with_elevation.csv,surface_pressure (hPa),52608,0,0.0,0,0,0,0,0.0
+Chennai,"Alandur Bus Depot, Chennai - CPCB",Alandur_Bus_Depot_merged_pollutants_time_features_weather_merged_with_elevation.csv,wind_speed_10m (km/h),52608,0,0.0,0,0,0,0,0.0
+Chennai,"Alandur Bus Depot, Chennai - CPCB",Alandur_Bus_Depot_merged_pollutants_time_features_weather_merged_with_elevation.csv,wind_direction_10m (°),52608,0,0.0,0,0,0,0,0.0
+Chennai,"Alandur Bus Depot, Chennai - CPCB",Alandur_Bus_Depot_merged_pollutants_time_features_weather_merged_with_elevation.csv,shortwave_radiation (W/m²),52608,0,0.0,0,0,0,0,0.0
+Chennai,"Alandur Bus Depot, Chennai - CPCB",Alandur_Bus_Depot_merged_pollutants_time_features_weather_merged_with_elevation.csv,cloud_cover (%),52608,0,0.0,0,0,0,0,0.0
+Chennai,"Perungudi, Chennai - TNPCB",Perungudi_Chennai_merged_pollutants_time_features_weather_merged_with_elevation.csv,PM2.5 (µg/m³),105216,9406,8.94,969,713,252,4,182.0
+Chennai,"Perungudi, Chennai - TNPCB",Perungudi_Chennai_merged_pollutants_time_features_weather_merged_with_elevation.csv,PM10 (µg/m³),105216,8870,8.43,587,419,162,6,1118.0
+Chennai,"Perungudi, Chennai - TNPCB",Perungudi_Chennai_merged_pollutants_time_features_weather_merged_with_elevation.csv,NO2 (µg/m³),105216,4446,4.23,236,135,96,5,182.0
+Chennai,"Perungudi, Chennai - TNPCB",Perungudi_Chennai_merged_pollutants_time_features_weather_merged_with_elevation.csv,SO2 (µg/m³),105216,6920,6.58,797,659,132,6,183.0
+Chennai,"Perungudi, Chennai - TNPCB",Perungudi_Chennai_merged_pollutants_time_features_weather_merged_with_elevation.csv,CO (mg/m³),105216,8680,8.25,542,360,175,7,1143.0
+Chennai,"Perungudi, Chennai - TNPCB",Perungudi_Chennai_merged_pollutants_time_features_weather_merged_with_elevation.csv,Ozone (µg/m³),105216,7552,7.18,733,548,178,7,182.0
+Chennai,"Perungudi, Chennai - TNPCB",Perungudi_Chennai_merged_pollutants_time_features_weather_merged_with_elevation.csv,NH3 (µg/m³),105216,5088,4.84,259,144,109,6,182.0
+Chennai,"Perungudi, Chennai - TNPCB",Perungudi_Chennai_merged_pollutants_time_features_weather_merged_with_elevation.csv,temperature_2m (°C),105216,0,0.0,0,0,0,0,0.0
+Chennai,"Perungudi, Chennai - TNPCB",Perungudi_Chennai_merged_pollutants_time_features_weather_merged_with_elevation.csv,relative_humidity_2m (%),105216,0,0.0,0,0,0,0,0.0
+Chennai,"Perungudi, Chennai - TNPCB",Perungudi_Chennai_merged_pollutants_time_features_weather_merged_with_elevation.csv,dew_point_2m (°C),105216,0,0.0,0,0,0,0,0.0
+Chennai,"Perungudi, Chennai - TNPCB",Perungudi_Chennai_merged_pollutants_time_features_weather_merged_with_elevation.csv,precipitation (mm),105216,0,0.0,0,0,0,0,0.0
+Chennai,"Perungudi, Chennai - TNPCB",Perungudi_Chennai_merged_pollutants_time_features_weather_merged_with_elevation.csv,surface_pressure (hPa),105216,0,0.0,0,0,0,0,0.0
+Chennai,"Perungudi, Chennai - TNPCB",Perungudi_Chennai_merged_pollutants_time_features_weather_merged_with_elevation.csv,wind_speed_10m (km/h),105216,0,0.0,0,0,0,0,0.0
+Chennai,"Perungudi, Chennai - TNPCB",Perungudi_Chennai_merged_pollutants_time_features_weather_merged_with_elevation.csv,wind_direction_10m (°),105216,0,0.0,0,0,0,0,0.0
+Chennai,"Perungudi, Chennai - TNPCB",Perungudi_Chennai_merged_pollutants_time_features_weather_merged_with_elevation.csv,shortwave_radiation (W/m²),105216,0,0.0,0,0,0,0,0.0
+Chennai,"Perungudi, Chennai - TNPCB",Perungudi_Chennai_merged_pollutants_time_features_weather_merged_with_elevation.csv,cloud_cover (%),105216,0,0.0,0,0,0,0,0.0
+Chennai,"Velachery Res. Area, Chennai - CPCB",Velachery_Res_Area_Chennai_merged_pollutants_time_features_weather_merged_with_elevation.csv,PM2.5 (µg/m³),52608,3466,6.59,494,326,163,5,338.0
+Chennai,"Velachery Res. Area, Chennai - CPCB",Velachery_Res_Area_Chennai_merged_pollutants_time_features_weather_merged_with_elevation.csv,PM10 (µg/m³),52608,14896,28.32,463,312,143,8,11555.0
+Chennai,"Velachery Res. Area, Chennai - CPCB",Velachery_Res_Area_Chennai_merged_pollutants_time_features_weather_merged_with_elevation.csv,NO2 (µg/m³),52608,2601,4.94,168,83,79,6,333.0
+Chennai,"Velachery Res. Area, Chennai - CPCB",Velachery_Res_Area_Chennai_merged_pollutants_time_features_weather_merged_with_elevation.csv,SO2 (µg/m³),52608,3893,7.4,434,298,123,13,333.0
+Chennai,"Velachery Res. Area, Chennai - CPCB",Velachery_Res_Area_Chennai_merged_pollutants_time_features_weather_merged_with_elevation.csv,CO (mg/m³),52608,1242,2.36,93,56,34,3,333.0
+Chennai,"Velachery Res. Area, Chennai - CPCB",Velachery_Res_Area_Chennai_merged_pollutants_time_features_weather_merged_with_elevation.csv,Ozone (µg/m³),52608,2516,4.78,347,238,103,6,333.0
+Chennai,"Velachery Res. Area, Chennai - CPCB",Velachery_Res_Area_Chennai_merged_pollutants_time_features_weather_merged_with_elevation.csv,NH3 (µg/m³),52608,14195,26.98,135,60,66,9,11555.0
+Chennai,"Velachery Res. Area, Chennai - CPCB",Velachery_Res_Area_Chennai_merged_pollutants_time_features_weather_merged_with_elevation.csv,temperature_2m (°C),52608,0,0.0,0,0,0,0,0.0
+Chennai,"Velachery Res. Area, Chennai - CPCB",Velachery_Res_Area_Chennai_merged_pollutants_time_features_weather_merged_with_elevation.csv,relative_humidity_2m (%),52608,0,0.0,0,0,0,0,0.0
+Chennai,"Velachery Res. Area, Chennai - CPCB",Velachery_Res_Area_Chennai_merged_pollutants_time_features_weather_merged_with_elevation.csv,dew_point_2m (°C),52608,0,0.0,0,0,0,0,0.0
+Chennai,"Velachery Res. Area, Chennai - CPCB",Velachery_Res_Area_Chennai_merged_pollutants_time_features_weather_merged_with_elevation.csv,precipitation (mm),52608,0,0.0,0,0,0,0,0.0
+Chennai,"Velachery Res. Area, Chennai - CPCB",Velachery_Res_Area_Chennai_merged_pollutants_time_features_weather_merged_with_elevation.csv,surface_pressure (hPa),52608,0,0.0,0,0,0,0,0.0
+Chennai,"Velachery Res. Area, Chennai - CPCB",Velachery_Res_Area_Chennai_merged_pollutants_time_features_weather_merged_with_elevation.csv,wind_speed_10m (km/h),52608,0,0.0,0,0,0,0,0.0
+Chennai,"Velachery Res. Area, Chennai - CPCB",Velachery_Res_Area_Chennai_merged_pollutants_time_features_weather_merged_with_elevation.csv,wind_direction_10m (°),52608,0,0.0,0,0,0,0,0.0
+Chennai,"Velachery Res. Area, Chennai - CPCB",Velachery_Res_Area_Chennai_merged_pollutants_time_features_weather_merged_with_elevation.csv,shortwave_radiation (W/m²),52608,0,0.0,0,0,0,0,0.0
+Chennai,"Velachery Res. Area, Chennai - CPCB",Velachery_Res_Area_Chennai_merged_pollutants_time_features_weather_merged_with_elevation.csv,cloud_cover (%),52608,0,0.0,0,0,0,0,0.0
+Kolkata,"Ballygunge, Kolkata - WBPCB",Ballygunge_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,PM2.5 (µg/m³),52608,3556,6.76,539,473,60,6,1334.0
+Kolkata,"Ballygunge, Kolkata - WBPCB",Ballygunge_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,PM10 (µg/m³),52608,3517,6.69,582,497,80,5,1334.0
+Kolkata,"Ballygunge, Kolkata - WBPCB",Ballygunge_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,NO2 (µg/m³),52608,3624,6.89,394,339,49,6,1334.0
+Kolkata,"Ballygunge, Kolkata - WBPCB",Ballygunge_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,SO2 (µg/m³),52608,2536,4.82,431,398,29,4,1334.0
+Kolkata,"Ballygunge, Kolkata - WBPCB",Ballygunge_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,CO (mg/m³),52608,2242,4.26,199,165,30,4,1334.0
+Kolkata,"Ballygunge, Kolkata - WBPCB",Ballygunge_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,Ozone (µg/m³),52608,2917,5.54,163,133,23,7,1334.0
+Kolkata,"Ballygunge, Kolkata - WBPCB",Ballygunge_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,NH3 (µg/m³),52608,3597,6.84,398,345,47,6,1334.0
+Kolkata,"Ballygunge, Kolkata - WBPCB",Ballygunge_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,temperature_2m (°C),52608,0,0.0,0,0,0,0,0.0
+Kolkata,"Ballygunge, Kolkata - WBPCB",Ballygunge_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,relative_humidity_2m (%),52608,0,0.0,0,0,0,0,0.0
+Kolkata,"Ballygunge, Kolkata - WBPCB",Ballygunge_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,dew_point_2m (°C),52608,0,0.0,0,0,0,0,0.0
+Kolkata,"Ballygunge, Kolkata - WBPCB",Ballygunge_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,precipitation (mm),52608,0,0.0,0,0,0,0,0.0
+Kolkata,"Ballygunge, Kolkata - WBPCB",Ballygunge_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,surface_pressure (hPa),52608,0,0.0,0,0,0,0,0.0
+Kolkata,"Ballygunge, Kolkata - WBPCB",Ballygunge_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,wind_speed_10m (km/h),52608,0,0.0,0,0,0,0,0.0
+Kolkata,"Ballygunge, Kolkata - WBPCB",Ballygunge_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,wind_direction_10m (°),52608,0,0.0,0,0,0,0,0.0
+Kolkata,"Ballygunge, Kolkata - WBPCB",Ballygunge_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,shortwave_radiation (W/m²),52608,0,0.0,0,0,0,0,0.0
+Kolkata,"Ballygunge, Kolkata - WBPCB",Ballygunge_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,cloud_cover (%),52608,0,0.0,0,0,0,0,0.0
+Kolkata,"Bidhannagar, Kolkata - WBPCB",Bidhannagar_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,PM2.5 (µg/m³),52608,2679,5.09,676,597,72,7,158.0
+Kolkata,"Bidhannagar, Kolkata - WBPCB",Bidhannagar_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,PM10 (µg/m³),52608,2722,5.17,692,608,77,7,158.0
+Kolkata,"Bidhannagar, Kolkata - WBPCB",Bidhannagar_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,NO2 (µg/m³),52608,3309,6.29,405,324,70,11,323.0
+Kolkata,"Bidhannagar, Kolkata - WBPCB",Bidhannagar_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,SO2 (µg/m³),52608,2206,4.19,473,414,52,7,158.0
+Kolkata,"Bidhannagar, Kolkata - WBPCB",Bidhannagar_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,CO (mg/m³),52608,1853,3.52,285,238,40,7,158.0
+Kolkata,"Bidhannagar, Kolkata - WBPCB",Bidhannagar_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,Ozone (µg/m³),52608,2874,5.46,392,325,58,9,237.0
+Kolkata,"Bidhannagar, Kolkata - WBPCB",Bidhannagar_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,NH3 (µg/m³),52608,3290,6.25,394,316,66,12,243.0
+Kolkata,"Bidhannagar, Kolkata - WBPCB",Bidhannagar_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,temperature_2m (°C),52608,0,0.0,0,0,0,0,0.0
+Kolkata,"Bidhannagar, Kolkata - WBPCB",Bidhannagar_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,relative_humidity_2m (%),52608,0,0.0,0,0,0,0,0.0
+Kolkata,"Bidhannagar, Kolkata - WBPCB",Bidhannagar_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,dew_point_2m (°C),52608,0,0.0,0,0,0,0,0.0
+Kolkata,"Bidhannagar, Kolkata - WBPCB",Bidhannagar_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,precipitation (mm),52608,0,0.0,0,0,0,0,0.0
+Kolkata,"Bidhannagar, Kolkata - WBPCB",Bidhannagar_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,surface_pressure (hPa),52608,0,0.0,0,0,0,0,0.0
+Kolkata,"Bidhannagar, Kolkata - WBPCB",Bidhannagar_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,wind_speed_10m (km/h),52608,0,0.0,0,0,0,0,0.0
+Kolkata,"Bidhannagar, Kolkata - WBPCB",Bidhannagar_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,wind_direction_10m (°),52608,0,0.0,0,0,0,0,0.0
+Kolkata,"Bidhannagar, Kolkata - WBPCB",Bidhannagar_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,shortwave_radiation (W/m²),52608,0,0.0,0,0,0,0,0.0
+Kolkata,"Bidhannagar, Kolkata - WBPCB",Bidhannagar_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,cloud_cover (%),52608,0,0.0,0,0,0,0,0.0
+Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",Rabindra_Sarobar_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,PM2.5 (µg/m³),52608,2551,4.85,474,411,56,7,343.0
+Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",Rabindra_Sarobar_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,PM10 (µg/m³),52608,1800,3.42,465,409,51,5,216.0
+Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",Rabindra_Sarobar_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,NO2 (µg/m³),52608,3095,5.88,460,392,63,5,1249.0
+Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",Rabindra_Sarobar_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,SO2 (µg/m³),52608,1202,2.28,324,293,27,4,148.0
+Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",Rabindra_Sarobar_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,CO (mg/m³),52608,1211,2.3,242,199,40,3,95.0
+Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",Rabindra_Sarobar_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,Ozone (µg/m³),52608,1620,3.08,188,157,26,5,487.0
+Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",Rabindra_Sarobar_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,NH3 (µg/m³),52608,3186,6.06,497,419,73,5,1249.0
+Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",Rabindra_Sarobar_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,temperature_2m (°C),52608,0,0.0,0,0,0,0,0.0
+Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",Rabindra_Sarobar_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,relative_humidity_2m (%),52608,0,0.0,0,0,0,0,0.0
+Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",Rabindra_Sarobar_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,dew_point_2m (°C),52608,0,0.0,0,0,0,0,0.0
+Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",Rabindra_Sarobar_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,precipitation (mm),52608,0,0.0,0,0,0,0,0.0
+Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",Rabindra_Sarobar_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,surface_pressure (hPa),52608,0,0.0,0,0,0,0,0.0
+Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",Rabindra_Sarobar_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,wind_speed_10m (km/h),52608,0,0.0,0,0,0,0,0.0
+Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",Rabindra_Sarobar_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,wind_direction_10m (°),52608,0,0.0,0,0,0,0,0.0
+Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",Rabindra_Sarobar_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,shortwave_radiation (W/m²),52608,0,0.0,0,0,0,0,0.0
+Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",Rabindra_Sarobar_Kolkata_merged_pollutants_time_features_weather_merged_with_elevation.csv,cloud_cover (%),52608,0,0.0,0,0,0,0,0.0
+Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Chhatrapati_Shivaji_Intl_Airport_Mumbai_merged_pollutants_time_features_weather_merged_with_elevation.csv,PM2.5 (µg/m³),52608,5066,9.63,586,454,123,9,809.0
+Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Chhatrapati_Shivaji_Intl_Airport_Mumbai_merged_pollutants_time_features_weather_merged_with_elevation.csv,PM10 (µg/m³),52608,4150,7.89,611,492,110,9,342.0
+Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Chhatrapati_Shivaji_Intl_Airport_Mumbai_merged_pollutants_time_features_weather_merged_with_elevation.csv,NO2 (µg/m³),52608,7303,13.88,1268,801,460,7,299.0
+Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Chhatrapati_Shivaji_Intl_Airport_Mumbai_merged_pollutants_time_features_weather_merged_with_elevation.csv,SO2 (µg/m³),52608,4687,8.91,647,509,133,5,1476.0
+Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Chhatrapati_Shivaji_Intl_Airport_Mumbai_merged_pollutants_time_features_weather_merged_with_elevation.csv,CO (mg/m³),52608,4070,7.74,753,557,192,4,533.0
+Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Chhatrapati_Shivaji_Intl_Airport_Mumbai_merged_pollutants_time_features_weather_merged_with_elevation.csv,Ozone (µg/m³),52608,3710,7.05,726,572,148,6,295.0
+Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Chhatrapati_Shivaji_Intl_Airport_Mumbai_merged_pollutants_time_features_weather_merged_with_elevation.csv,NH3 (µg/m³),52608,6212,11.81,1071,777,286,8,579.0
+Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Chhatrapati_Shivaji_Intl_Airport_Mumbai_merged_pollutants_time_features_weather_merged_with_elevation.csv,temperature_2m (°C),52608,0,0.0,0,0,0,0,0.0
+Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Chhatrapati_Shivaji_Intl_Airport_Mumbai_merged_pollutants_time_features_weather_merged_with_elevation.csv,relative_humidity_2m (%),52608,0,0.0,0,0,0,0,0.0
+Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Chhatrapati_Shivaji_Intl_Airport_Mumbai_merged_pollutants_time_features_weather_merged_with_elevation.csv,dew_point_2m (°C),52608,0,0.0,0,0,0,0,0.0
+Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Chhatrapati_Shivaji_Intl_Airport_Mumbai_merged_pollutants_time_features_weather_merged_with_elevation.csv,precipitation (mm),52608,0,0.0,0,0,0,0,0.0
+Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Chhatrapati_Shivaji_Intl_Airport_Mumbai_merged_pollutants_time_features_weather_merged_with_elevation.csv,surface_pressure (hPa),52608,0,0.0,0,0,0,0,0.0
+Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Chhatrapati_Shivaji_Intl_Airport_Mumbai_merged_pollutants_time_features_weather_merged_with_elevation.csv,wind_speed_10m (km/h),52608,0,0.0,0,0,0,0,0.0
+Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Chhatrapati_Shivaji_Intl_Airport_Mumbai_merged_pollutants_time_features_weather_merged_with_elevation.csv,wind_direction_10m (°),52608,0,0.0,0,0,0,0,0.0
+Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Chhatrapati_Shivaji_Intl_Airport_Mumbai_merged_pollutants_time_features_weather_merged_with_elevation.csv,shortwave_radiation (W/m²),52608,0,0.0,0,0,0,0,0.0
+Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Chhatrapati_Shivaji_Intl_Airport_Mumbai_merged_pollutants_time_features_weather_merged_with_elevation.csv,cloud_cover (%),52608,0,0.0,0,0,0,0,0.0
+Mumbai,"Colaba, Mumbai - MPCB",Colaba_Mumbai_MPCB_merged_pollutants_time_features_weather_merged_with_elevation.csv,PM2.5 (µg/m³),52608,10870,20.66,927,713,190,24,1730.0
+Mumbai,"Colaba, Mumbai - MPCB",Colaba_Mumbai_MPCB_merged_pollutants_time_features_weather_merged_with_elevation.csv,PM10 (µg/m³),52608,9133,17.36,1228,996,212,20,902.0
+Mumbai,"Colaba, Mumbai - MPCB",Colaba_Mumbai_MPCB_merged_pollutants_time_features_weather_merged_with_elevation.csv,NO2 (µg/m³),52608,10141,19.28,1138,929,181,28,859.0
+Mumbai,"Colaba, Mumbai - MPCB",Colaba_Mumbai_MPCB_merged_pollutants_time_features_weather_merged_with_elevation.csv,SO2 (µg/m³),52608,14710,27.96,2117,1313,777,27,597.0
+Mumbai,"Colaba, Mumbai - MPCB",Colaba_Mumbai_MPCB_merged_pollutants_time_features_weather_merged_with_elevation.csv,CO (mg/m³),52608,7092,13.48,987,760,212,15,576.0
+Mumbai,"Colaba, Mumbai - MPCB",Colaba_Mumbai_MPCB_merged_pollutants_time_features_weather_merged_with_elevation.csv,Ozone (µg/m³),52608,10353,19.68,1795,1233,546,16,578.0
+Mumbai,"Colaba, Mumbai - MPCB",Colaba_Mumbai_MPCB_merged_pollutants_time_features_weather_merged_with_elevation.csv,NH3 (µg/m³),52608,8010,15.23,1014,836,155,23,686.0
+Mumbai,"Colaba, Mumbai - MPCB",Colaba_Mumbai_MPCB_merged_pollutants_time_features_weather_merged_with_elevation.csv,temperature_2m (°C),52608,0,0.0,0,0,0,0,0.0
+Mumbai,"Colaba, Mumbai - MPCB",Colaba_Mumbai_MPCB_merged_pollutants_time_features_weather_merged_with_elevation.csv,relative_humidity_2m (%),52608,0,0.0,0,0,0,0,0.0
+Mumbai,"Colaba, Mumbai - MPCB",Colaba_Mumbai_MPCB_merged_pollutants_time_features_weather_merged_with_elevation.csv,dew_point_2m (°C),52608,0,0.0,0,0,0,0,0.0
+Mumbai,"Colaba, Mumbai - MPCB",Colaba_Mumbai_MPCB_merged_pollutants_time_features_weather_merged_with_elevation.csv,precipitation (mm),52608,0,0.0,0,0,0,0,0.0
+Mumbai,"Colaba, Mumbai - MPCB",Colaba_Mumbai_MPCB_merged_pollutants_time_features_weather_merged_with_elevation.csv,surface_pressure (hPa),52608,0,0.0,0,0,0,0,0.0
+Mumbai,"Colaba, Mumbai - MPCB",Colaba_Mumbai_MPCB_merged_pollutants_time_features_weather_merged_with_elevation.csv,wind_speed_10m (km/h),52608,0,0.0,0,0,0,0,0.0
+Mumbai,"Colaba, Mumbai - MPCB",Colaba_Mumbai_MPCB_merged_pollutants_time_features_weather_merged_with_elevation.csv,wind_direction_10m (°),52608,0,0.0,0,0,0,0,0.0
+Mumbai,"Colaba, Mumbai - MPCB",Colaba_Mumbai_MPCB_merged_pollutants_time_features_weather_merged_with_elevation.csv,shortwave_radiation (W/m²),52608,0,0.0,0,0,0,0,0.0
+Mumbai,"Colaba, Mumbai - MPCB",Colaba_Mumbai_MPCB_merged_pollutants_time_features_weather_merged_with_elevation.csv,cloud_cover (%),52608,0,0.0,0,0,0,0,0.0
+Mumbai,"Powai, Mumbai - MPCB",Powai_Mumbai_merged_pollutants_time_features_weather_merged_with_elevation.csv,PM2.5 (µg/m³),52608,6001,11.41,387,216,156,15,525.0
+Mumbai,"Powai, Mumbai - MPCB",Powai_Mumbai_merged_pollutants_time_features_weather_merged_with_elevation.csv,PM10 (µg/m³),52608,6776,12.88,667,432,223,12,525.0
+Mumbai,"Powai, Mumbai - MPCB",Powai_Mumbai_merged_pollutants_time_features_weather_merged_with_elevation.csv,NO2 (µg/m³),52608,3988,7.58,516,372,137,7,499.0
+Mumbai,"Powai, Mumbai - MPCB",Powai_Mumbai_merged_pollutants_time_features_weather_merged_with_elevation.csv,SO2 (µg/m³),52608,5512,10.48,724,527,186,11,499.0
+Mumbai,"Powai, Mumbai - MPCB",Powai_Mumbai_merged_pollutants_time_features_weather_merged_with_elevation.csv,CO (mg/m³),52608,5672,10.78,733,570,153,10,583.0
+Mumbai,"Powai, Mumbai - MPCB",Powai_Mumbai_merged_pollutants_time_features_weather_merged_with_elevation.csv,Ozone (µg/m³),52608,5479,10.41,930,748,173,9,499.0
+Mumbai,"Powai, Mumbai - MPCB",Powai_Mumbai_merged_pollutants_time_features_weather_merged_with_elevation.csv,NH3 (µg/m³),52608,4627,8.8,711,514,190,7,499.0
+Mumbai,"Powai, Mumbai - MPCB",Powai_Mumbai_merged_pollutants_time_features_weather_merged_with_elevation.csv,temperature_2m (°C),52608,0,0.0,0,0,0,0,0.0
+Mumbai,"Powai, Mumbai - MPCB",Powai_Mumbai_merged_pollutants_time_features_weather_merged_with_elevation.csv,relative_humidity_2m (%),52608,0,0.0,0,0,0,0,0.0
+Mumbai,"Powai, Mumbai - MPCB",Powai_Mumbai_merged_pollutants_time_features_weather_merged_with_elevation.csv,dew_point_2m (°C),52608,0,0.0,0,0,0,0,0.0
+Mumbai,"Powai, Mumbai - MPCB",Powai_Mumbai_merged_pollutants_time_features_weather_merged_with_elevation.csv,precipitation (mm),52608,0,0.0,0,0,0,0,0.0
+Mumbai,"Powai, Mumbai - MPCB",Powai_Mumbai_merged_pollutants_time_features_weather_merged_with_elevation.csv,surface_pressure (hPa),52608,0,0.0,0,0,0,0,0.0
+Mumbai,"Powai, Mumbai - MPCB",Powai_Mumbai_merged_pollutants_time_features_weather_merged_with_elevation.csv,wind_speed_10m (km/h),52608,0,0.0,0,0,0,0,0.0
+Mumbai,"Powai, Mumbai - MPCB",Powai_Mumbai_merged_pollutants_time_features_weather_merged_with_elevation.csv,wind_direction_10m (°),52608,0,0.0,0,0,0,0,0.0
+Mumbai,"Powai, Mumbai - MPCB",Powai_Mumbai_merged_pollutants_time_features_weather_merged_with_elevation.csv,shortwave_radiation (W/m²),52608,0,0.0,0,0,0,0,0.0
+Mumbai,"Powai, Mumbai - MPCB",Powai_Mumbai_merged_pollutants_time_features_weather_merged_with_elevation.csv,cloud_cover (%),52608,0,0.0,0,0,0,0,0.0
+Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",GVM_Corporation_Visakhapatnam_merged_pollutants_time_features_weather_merged_with_elevation.csv,PM2.5 (µg/m³),52608,3313,6.3,509,297,208,4,128.0
+Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",GVM_Corporation_Visakhapatnam_merged_pollutants_time_features_weather_merged_with_elevation.csv,PM10 (µg/m³),52608,3093,5.88,451,260,188,3,102.0
+Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",GVM_Corporation_Visakhapatnam_merged_pollutants_time_features_weather_merged_with_elevation.csv,NO2 (µg/m³),52608,2183,4.15,329,193,133,3,102.0
+Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",GVM_Corporation_Visakhapatnam_merged_pollutants_time_features_weather_merged_with_elevation.csv,SO2 (µg/m³),52608,4484,8.52,1079,733,343,3,102.0
+Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",GVM_Corporation_Visakhapatnam_merged_pollutants_time_features_weather_merged_with_elevation.csv,CO (mg/m³),52608,2253,4.28,380,233,144,3,102.0
+Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",GVM_Corporation_Visakhapatnam_merged_pollutants_time_features_weather_merged_with_elevation.csv,Ozone (µg/m³),52608,3659,6.96,781,538,240,3,102.0
+Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",GVM_Corporation_Visakhapatnam_merged_pollutants_time_features_weather_merged_with_elevation.csv,NH3 (µg/m³),52608,2786,5.3,454,274,175,5,102.0
+Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",GVM_Corporation_Visakhapatnam_merged_pollutants_time_features_weather_merged_with_elevation.csv,temperature_2m (°C),52608,0,0.0,0,0,0,0,0.0
+Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",GVM_Corporation_Visakhapatnam_merged_pollutants_time_features_weather_merged_with_elevation.csv,relative_humidity_2m (%),52608,0,0.0,0,0,0,0,0.0
+Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",GVM_Corporation_Visakhapatnam_merged_pollutants_time_features_weather_merged_with_elevation.csv,dew_point_2m (°C),52608,0,0.0,0,0,0,0,0.0
+Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",GVM_Corporation_Visakhapatnam_merged_pollutants_time_features_weather_merged_with_elevation.csv,precipitation (mm),52608,0,0.0,0,0,0,0,0.0
+Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",GVM_Corporation_Visakhapatnam_merged_pollutants_time_features_weather_merged_with_elevation.csv,surface_pressure (hPa),52608,0,0.0,0,0,0,0,0.0
+Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",GVM_Corporation_Visakhapatnam_merged_pollutants_time_features_weather_merged_with_elevation.csv,wind_speed_10m (km/h),52608,0,0.0,0,0,0,0,0.0
+Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",GVM_Corporation_Visakhapatnam_merged_pollutants_time_features_weather_merged_with_elevation.csv,wind_direction_10m (°),52608,0,0.0,0,0,0,0,0.0
+Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",GVM_Corporation_Visakhapatnam_merged_pollutants_time_features_weather_merged_with_elevation.csv,shortwave_radiation (W/m²),52608,0,0.0,0,0,0,0,0.0
+Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",GVM_Corporation_Visakhapatnam_merged_pollutants_time_features_weather_merged_with_elevation.csv,cloud_cover (%),52608,0,0.0,0,0,0,0,0.0
