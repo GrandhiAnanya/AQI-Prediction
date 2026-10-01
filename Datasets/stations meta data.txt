@@ -66,12 +66,10 @@ Sector-25, Chandigarh - CPCC : 30.751950284771876, 76.75646141005554 (approx)
 Jaipur
 Adarsh Nagar, Jaipur - RSPCB : 	26.906721220662195, 75.8249173859782 (approx)
 Shastri Nagar, Jaipur - RSPCB : 26.948036441210434, 75.80195647370641 (approx)
-Police Commissionerate, Jaipur - RSPCB : 26.916727107442714, 75.80170745186368
 
 ---- Deccan + Industrial (Satya)
 Bengaluru
 1553 - Bapuji Nagar, Bengaluru - KSPCB ; 12.975425124515596, 77.60363616835642
-165 - City Railway Station, Bengaluru - KSPCB ; 12.9756843 , 77.5660749
 1555 - Hombegowda Nagar, Bengaluru - KSPCB ; 12.938539	, 77.5901
 
 Hyderabad
@@ -79,10 +77,8 @@ Hyderabad
 5597 - IITH Kandi, Hyderabad - TSPCB	17.585705	78.126199
 298 - Zoo Park, Hyderabad - TSPCB	17.349693	78.45144
 
-Pune
-5407 - Hadapsar, Pune - IITM	18.501793	73.927532
-292 - Karve Road, Pune - MPCB	18.5011743	73.8165527
-5404 - Mhada Colony, Pune - IITM	18.57304	73.927715
+Nagpur
+Opp GPO Civil Lines, Nagpur - MPCB : 21.152807055237215, 79.06819807257483
 
 Ahmedabad
 5453 - Chandkheda, Ahmedabad - IITM	23.107969	72.574648
