@@ -1,0 +1,149 @@
+﻿Column,Data Type,Non-Null Count,Missing Count,Missing Percentage
+Day,int64,1851441,0,0.0
+Month,int64,1851441,0,0.0
+Year,int64,1851441,0,0.0
+Time,str,1851441,0,0.0
+Day_of_Week,str,1851441,0,0.0
+Season,str,1851441,0,0.0
+PM2.5 (µg/m³),float64,1851441,0,0.0
+PM10 (µg/m³),float64,1851441,0,0.0
+NO2 (µg/m³),float64,1851441,0,0.0
+SO2 (µg/m³),float64,1851441,0,0.0
+CO (mg/m³),float64,1851441,0,0.0
+Ozone (µg/m³),float64,1851441,0,0.0
+NH3 (µg/m³),float64,1851441,0,0.0
+temperature_2m (°C),float64,1851441,0,0.0
+relative_humidity_2m (%),int64,1851441,0,0.0
+dew_point_2m (°C),float64,1851441,0,0.0
+precipitation (mm),float64,1851441,0,0.0
+surface_pressure (hPa),float64,1851441,0,0.0
+wind_speed_10m (km/h),float64,1851441,0,0.0
+wind_direction_10m (°),int64,1851441,0,0.0
+shortwave_radiation (W/m²),float64,1851441,0,0.0
+cloud_cover (%),int64,1851441,0,0.0
+elevation,float64,1851441,0,0.0
+latitude,float64,1851441,0,0.0
+longitude,float64,1851441,0,0.0
+AQI,float64,1849096,2345,0.13
+AQI_lag_1,float64,1848169,3272,0.18
+AQI_lag_6,float64,1845245,6196,0.33
+AQI_lag_12,float64,1841751,9690,0.52
+AQI_lag_24,float64,1834823,16618,0.9
+PM2.5_lag_1,float64,1850495,946,0.05
+PM2.5_lag_6,float64,1847651,3790,0.2
+PM2.5_lag_12,float64,1844303,7138,0.39
+PM2.5_lag_24,float64,1837702,13739,0.74
+PM10_lag_1,float64,1850495,946,0.05
+PM10_lag_6,float64,1847651,3790,0.2
+PM10_lag_12,float64,1844303,7138,0.39
+PM10_lag_24,float64,1837702,13739,0.74
+NO2_lag_1,float64,1850495,946,0.05
+NO2_lag_6,float64,1847651,3790,0.2
+NO2_lag_12,float64,1844303,7138,0.39
+NO2_lag_24,float64,1837702,13739,0.74
+SO2_lag_1,float64,1850495,946,0.05
+SO2_lag_6,float64,1847651,3790,0.2
+SO2_lag_12,float64,1844303,7138,0.39
+SO2_lag_24,float64,1837702,13739,0.74
+CO_lag_1,float64,1850495,946,0.05
+CO_lag_6,float64,1847651,3790,0.2
+CO_lag_12,float64,1844303,7138,0.39
+CO_lag_24,float64,1837702,13739,0.74
+Ozone_lag_1,float64,1850495,946,0.05
+Ozone_lag_6,float64,1847651,3790,0.2
+Ozone_lag_12,float64,1844303,7138,0.39
+Ozone_lag_24,float64,1837702,13739,0.74
+NH3_lag_1,float64,1850495,946,0.05
+NH3_lag_6,float64,1847651,3790,0.2
+NH3_lag_12,float64,1844303,7138,0.39
+NH3_lag_24,float64,1837702,13739,0.74
+AQI_roll_mean_1,float64,1596885,254556,13.75
+AQI_roll_median_1,float64,1596885,254556,13.75
+AQI_roll_mean_6,float64,1848017,3424,0.18
+AQI_roll_median_6,float64,1848017,3424,0.18
+AQI_roll_std_6,float64,1847906,3535,0.19
+AQI_roll_mean_12,float64,1847006,4435,0.24
+AQI_roll_median_12,float64,1847006,4435,0.24
+AQI_roll_std_12,float64,1846895,4546,0.25
+AQI_roll_mean_24,float64,1844975,6466,0.35
+AQI_roll_median_24,float64,1844975,6466,0.35
+AQI_roll_std_24,float64,1844864,6577,0.36
+PM2.5_roll_mean_1,float64,1599165,252276,13.63
+PM2.5_roll_median_1,float64,1599165,252276,13.63
+PM2.5_roll_mean_6,float64,1850403,1038,0.06
+PM2.5_roll_median_6,float64,1850403,1038,0.06
+PM2.5_roll_std_6,float64,1850296,1145,0.06
+PM2.5_roll_mean_12,float64,1849514,1927,0.1
+PM2.5_roll_median_12,float64,1849514,1927,0.1
+PM2.5_roll_std_12,float64,1849407,2034,0.11
+PM2.5_roll_mean_24,float64,1847762,3679,0.2
+PM2.5_roll_median_24,float64,1847762,3679,0.2
+PM2.5_roll_std_24,float64,1847655,3786,0.2
+PM10_roll_mean_1,float64,1599165,252276,13.63
+PM10_roll_median_1,float64,1599165,252276,13.63
+PM10_roll_mean_6,float64,1850403,1038,0.06
+PM10_roll_median_6,float64,1850403,1038,0.06
+PM10_roll_std_6,float64,1850296,1145,0.06
+PM10_roll_mean_12,float64,1849514,1927,0.1
+PM10_roll_median_12,float64,1849514,1927,0.1
+PM10_roll_std_12,float64,1849407,2034,0.11
+PM10_roll_mean_24,float64,1847762,3679,0.2
+PM10_roll_median_24,float64,1847762,3679,0.2
+PM10_roll_std_24,float64,1847655,3786,0.2
+NO2_roll_mean_1,float64,1599165,252276,13.63
+NO2_roll_median_1,float64,1599165,252276,13.63
+NO2_roll_mean_6,float64,1850403,1038,0.06
+NO2_roll_median_6,float64,1850403,1038,0.06
+NO2_roll_std_6,float64,1850296,1145,0.06
+NO2_roll_mean_12,float64,1849514,1927,0.1
+NO2_roll_median_12,float64,1849514,1927,0.1
+NO2_roll_std_12,float64,1849407,2034,0.11
+NO2_roll_mean_24,float64,1847762,3679,0.2
+NO2_roll_median_24,float64,1847762,3679,0.2
+NO2_roll_std_24,float64,1847655,3786,0.2
+SO2_roll_mean_1,float64,1599165,252276,13.63
+SO2_roll_median_1,float64,1599165,252276,13.63
+SO2_roll_mean_6,float64,1850403,1038,0.06
+SO2_roll_median_6,float64,1850403,1038,0.06
+SO2_roll_std_6,float64,1850296,1145,0.06
+SO2_roll_mean_12,float64,1849514,1927,0.1
+SO2_roll_median_12,float64,1849514,1927,0.1
+SO2_roll_std_12,float64,1849407,2034,0.11
+SO2_roll_mean_24,float64,1847762,3679,0.2
+SO2_roll_median_24,float64,1847762,3679,0.2
+SO2_roll_std_24,float64,1847655,3786,0.2
+CO_roll_mean_1,float64,1599165,252276,13.63
+CO_roll_median_1,float64,1599165,252276,13.63
+CO_roll_mean_6,float64,1850403,1038,0.06
+CO_roll_median_6,float64,1850403,1038,0.06
+CO_roll_std_6,float64,1850296,1145,0.06
+CO_roll_mean_12,float64,1849514,1927,0.1
+CO_roll_median_12,float64,1849514,1927,0.1
+CO_roll_std_12,float64,1849407,2034,0.11
+CO_roll_mean_24,float64,1847762,3679,0.2
+CO_roll_median_24,float64,1847762,3679,0.2
+CO_roll_std_24,float64,1847655,3786,0.2
+Ozone_roll_mean_1,float64,1599165,252276,13.63
+Ozone_roll_median_1,float64,1599165,252276,13.63
+Ozone_roll_mean_6,float64,1850403,1038,0.06
+Ozone_roll_median_6,float64,1850403,1038,0.06
+Ozone_roll_std_6,float64,1850296,1145,0.06
+Ozone_roll_mean_12,float64,1849514,1927,0.1
+Ozone_roll_median_12,float64,1849514,1927,0.1
+Ozone_roll_std_12,float64,1849407,2034,0.11
+Ozone_roll_mean_24,float64,1847762,3679,0.2
+Ozone_roll_median_24,float64,1847762,3679,0.2
+Ozone_roll_std_24,float64,1847655,3786,0.2
+NH3_roll_mean_1,float64,1599165,252276,13.63
+NH3_roll_median_1,float64,1599165,252276,13.63
+NH3_roll_mean_6,float64,1850403,1038,0.06
+NH3_roll_median_6,float64,1850403,1038,0.06
+NH3_roll_std_6,float64,1850296,1145,0.06
+NH3_roll_mean_12,float64,1849514,1927,0.1
+NH3_roll_median_12,float64,1849514,1927,0.1
+NH3_roll_std_12,float64,1849407,2034,0.11
+NH3_roll_mean_24,float64,1847762,3679,0.2
+NH3_roll_median_24,float64,1847762,3679,0.2
+NH3_roll_std_24,float64,1847655,3786,0.2
+AQI_future_1,float64,1706144,145297,7.85
+AQI_future_24,float64,1696323,155118,8.38
