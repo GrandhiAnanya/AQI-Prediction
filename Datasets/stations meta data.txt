@@ -52,7 +52,6 @@ Jai Bhim Nagar, Meerut - UPPCB : 28.960106178184613, 77.75835141919988 (approx)
 
 Patna
 DRM Office Danapur, Patna - BSPCB : 25.585910865521264, 85.04386190979056
-Muradpur, Patna - BSPCB : 25.620016451899286, 85.14409370833543 (approx)
 Rajbansi Nagar, Patna - BSPCB : 25.602125855725582, 85.10890113952915 (approx)
 
 Muzaffarnagar (instead of varanasi)

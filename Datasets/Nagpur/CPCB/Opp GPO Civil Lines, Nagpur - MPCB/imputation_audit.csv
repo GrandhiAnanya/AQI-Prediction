@@ -1,0 +1,22 @@
+Split,Variable,Missing_Before,Short_Gap_Filled,Medium_Gap_Filled,Long_Gap_Left,Missing_After
+Train_2020_2023,PM2.5 (µg/m³),5053,610,2881,1562,1562
+Train_2020_2023,PM10 (µg/m³),5962,677,3581,1704,1704
+Train_2020_2023,NO2 (µg/m³),3112,302,2207,603,603
+Train_2020_2023,SO2 (µg/m³),2684,463,1764,457,457
+Train_2020_2023,CO (mg/m³),2373,348,1543,482,482
+Train_2020_2023,Ozone (µg/m³),3071,158,914,1999,1999
+Train_2020_2023,NH3 (µg/m³),2707,231,1873,603,603
+Validation_2024,PM2.5 (µg/m³),281,149,132,0,0
+Validation_2024,PM10 (µg/m³),290,151,139,0,0
+Validation_2024,NO2 (µg/m³),306,59,247,0,0
+Validation_2024,SO2 (µg/m³),203,68,135,0,0
+Validation_2024,CO (mg/m³),174,51,123,0,0
+Validation_2024,Ozone (µg/m³),164,42,122,0,0
+Validation_2024,NH3 (µg/m³),300,58,242,0,0
+Test_2025,PM2.5 (µg/m³),267,61,206,0,0
+Test_2025,PM10 (µg/m³),266,65,201,0,0
+Test_2025,NO2 (µg/m³),238,38,200,0,0
+Test_2025,SO2 (µg/m³),233,31,202,0,0
+Test_2025,CO (mg/m³),201,27,174,0,0
+Test_2025,Ozone (µg/m³),214,30,184,0,0
+Test_2025,NH3 (µg/m³),227,34,193,0,0

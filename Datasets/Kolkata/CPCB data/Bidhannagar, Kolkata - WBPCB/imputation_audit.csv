@@ -1,0 +1,72 @@
+Split,Variable,Method,Rows_Filled,Rows_Dropped,Rows_Left_Missing
+Train,PM2.5 (µg/m³),1-3 h -> Past-only forward fill,638,0,0
+Train,PM2.5 (µg/m³),4-72 h -> Contextual median (Level 1),487,0,0
+Train,PM2.5 (µg/m³),>72 h -> Leave missing,0,0,764
+Train,PM2.5 (µg/m³),FINAL,1125,0,764
+Train,PM10 (µg/m³),1-3 h -> Past-only forward fill,645,0,0
+Train,PM10 (µg/m³),4-72 h -> Contextual median (Level 1),532,0,0
+Train,PM10 (µg/m³),>72 h -> Leave missing,0,0,768
+Train,PM10 (µg/m³),FINAL,1177,0,768
+Train,NO2 (µg/m³),1-3 h -> Past-only forward fill,262,0,0
+Train,NO2 (µg/m³),4-72 h -> Contextual median (Level 1),788,0,0
+Train,NO2 (µg/m³),>72 h -> Leave missing,0,0,1578
+Train,NO2 (µg/m³),FINAL,1050,0,1578
+Train,SO2 (µg/m³),1-3 h -> Past-only forward fill,382,0,0
+Train,SO2 (µg/m³),4-72 h -> Contextual median (Level 1),404,0,0
+Train,SO2 (µg/m³),>72 h -> Leave missing,0,0,768
+Train,SO2 (µg/m³),FINAL,786,0,768
+Train,CO (mg/m³),1-3 h -> Past-only forward fill,214,0,0
+Train,CO (mg/m³),4-72 h -> Contextual median (Level 1),358,0,0
+Train,CO (mg/m³),>72 h -> Leave missing,0,0,768
+Train,CO (mg/m³),FINAL,572,0,768
+Train,Ozone (µg/m³),1-3 h -> Past-only forward fill,279,0,0
+Train,Ozone (µg/m³),4-72 h -> Contextual median (Level 1),880,0,0
+Train,Ozone (µg/m³),>72 h -> Leave missing,0,0,1202
+Train,Ozone (µg/m³),FINAL,1159,0,1202
+Train,NH3 (µg/m³),1-3 h -> Past-only forward fill,282,0,0
+Train,NH3 (µg/m³),4-72 h -> Contextual median (Level 1),819,0,0
+Train,NH3 (µg/m³),>72 h -> Leave missing,0,0,1577
+Train,NH3 (µg/m³),FINAL,1101,0,1577
+Validation,PM2.5 (µg/m³),1-3 h -> Past-only forward fill,123,0,0
+Validation,PM2.5 (µg/m³),4-72 h -> Contextual median (Level 1),308,0,0
+Validation,PM2.5 (µg/m³),FINAL,431,0,0
+Validation,PM10 (µg/m³),1-3 h -> Past-only forward fill,129,0,0
+Validation,PM10 (µg/m³),4-72 h -> Contextual median (Level 1),267,0,0
+Validation,PM10 (µg/m³),FINAL,396,0,0
+Validation,NO2 (µg/m³),1-3 h -> Past-only forward fill,82,0,0
+Validation,NO2 (µg/m³),4-72 h -> Contextual median (Level 1),245,0,0
+Validation,NO2 (µg/m³),FINAL,327,0,0
+Validation,SO2 (µg/m³),1-3 h -> Past-only forward fill,73,0,0
+Validation,SO2 (µg/m³),4-72 h -> Contextual median (Level 1),244,0,0
+Validation,SO2 (µg/m³),FINAL,317,0,0
+Validation,CO (mg/m³),1-3 h -> Past-only forward fill,44,0,0
+Validation,CO (mg/m³),4-72 h -> Contextual median (Level 1),222,0,0
+Validation,CO (mg/m³),FINAL,266,0,0
+Validation,Ozone (µg/m³),1-3 h -> Past-only forward fill,57,0,0
+Validation,Ozone (µg/m³),4-72 h -> Contextual median (Level 1),213,0,0
+Validation,Ozone (µg/m³),FINAL,270,0,0
+Validation,NH3 (µg/m³),1-3 h -> Past-only forward fill,76,0,0
+Validation,NH3 (µg/m³),4-72 h -> Contextual median (Level 1),245,0,0
+Validation,NH3 (µg/m³),FINAL,321,0,0
+Test,PM2.5 (µg/m³),1-3 h -> Past-only forward fill,144,0,0
+Test,PM2.5 (µg/m³),4-72 h -> Contextual median (Level 1),215,0,0
+Test,PM2.5 (µg/m³),FINAL,359,0,0
+Test,PM10 (µg/m³),1-3 h -> Past-only forward fill,149,0,0
+Test,PM10 (µg/m³),4-72 h -> Contextual median (Level 1),232,0,0
+Test,PM10 (µg/m³),FINAL,381,0,0
+Test,NO2 (µg/m³),1-3 h -> Past-only forward fill,89,0,0
+Test,NO2 (µg/m³),4-72 h -> Contextual median (Level 1),265,0,0
+Test,NO2 (µg/m³),FINAL,354,0,0
+Test,SO2 (µg/m³),1-3 h -> Past-only forward fill,74,0,0
+Test,SO2 (µg/m³),4-72 h -> Contextual median (Level 1),261,0,0
+Test,SO2 (µg/m³),FINAL,335,0,0
+Test,CO (mg/m³),1-3 h -> Past-only forward fill,53,0,0
+Test,CO (mg/m³),4-72 h -> Contextual median (Level 1),194,0,0
+Test,CO (mg/m³),FINAL,247,0,0
+Test,Ozone (µg/m³),1-3 h -> Past-only forward fill,61,0,0
+Test,Ozone (µg/m³),4-72 h -> Contextual median (Level 1),182,0,0
+Test,Ozone (µg/m³),FINAL,243,0,0
+Test,NH3 (µg/m³),1-3 h -> Past-only forward fill,66,0,0
+Test,NH3 (µg/m³),4-72 h -> Contextual median (Level 1),225,0,0
+Test,NH3 (µg/m³),FINAL,291,0,0
+ALL,ALL POLLUTANTS,Drop rows with unresolved pollutant missingness,0,2012,0
