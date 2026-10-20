@@ -1,0 +1,82 @@
+{
+  "AQI_future_1__Model_A": {
+    "target": "AQI_future_1",
+    "model": "A",
+    "validation_mae": 1.6173986196517944,
+    "validation_rmse": 3.144865143860908,
+    "validation_r2": 0.9987341165542603,
+    "params": {
+      "min_samples_split": 2,
+      "bootstrap": true,
+      "n_streams": 4,
+      "random_state": 42,
+      "output_type": "cupy",
+      "n_estimators": 200,
+      "max_depth": 16,
+      "max_features": 0.7,
+      "min_samples_leaf": 2,
+      "n_bins": 128,
+      "max_samples": 0.8
+    }
+  },
+  "AQI_future_1__Model_B": {
+    "target": "AQI_future_1",
+    "model": "B",
+    "validation_mae": 1.6188865900039673,
+    "validation_rmse": 3.1479720535976705,
+    "validation_r2": 0.9987316131591797,
+    "params": {
+      "min_samples_split": 2,
+      "bootstrap": true,
+      "n_streams": 4,
+      "random_state": 42,
+      "output_type": "cupy",
+      "n_estimators": 200,
+      "max_depth": 16,
+      "max_features": 0.7,
+      "min_samples_leaf": 2,
+      "n_bins": 128,
+      "max_samples": 0.8
+    }
+  },
+  "AQI_future_24__Model_A": {
+    "target": "AQI_future_24",
+    "model": "A",
+    "validation_mae": 24.91136932373047,
+    "validation_rmse": 38.6432406615714,
+    "validation_r2": 0.8082567453384399,
+    "params": {
+      "min_samples_split": 2,
+      "bootstrap": true,
+      "n_streams": 4,
+      "random_state": 42,
+      "output_type": "cupy",
+      "n_estimators": 300,
+      "max_depth": 16,
+      "max_features": 0.5,
+      "min_samples_leaf": 2,
+      "n_bins": 64,
+      "max_samples": 1.0
+    }
+  },
+  "AQI_future_24__Model_B": {
+    "target": "AQI_future_24",
+    "model": "B",
+    "validation_mae": 24.617250442504883,
+    "validation_rmse": 37.97316396668343,
+    "validation_r2": 0.814848780632019,
+    "params": {
+      "min_samples_split": 2,
+      "bootstrap": true,
+      "n_streams": 4,
+      "random_state": 42,
+      "output_type": "cupy",
+      "n_estimators": 300,
+      "max_depth": 16,
+      "max_features": 0.5,
+      "min_samples_leaf": 2,
+      "n_bins": 64,
+      "max_samples": 1.0
+    }
+  }
+}
